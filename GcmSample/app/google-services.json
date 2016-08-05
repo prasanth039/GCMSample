@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "261010503398",
+    "project_id": "gcmsample-1ba0d"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261010503398:android:35f7e4d07f6a01c6",
+        "android_client_info": {
+          "package_name": "test.impiger.com.gcmsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkHZ9Glyb333FKujnY6256F49Y_IleDtw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
